@@ -1,7 +1,7 @@
 ### Hi,
 ### My Name Is Omokaro Blessing
-### I'm a Data Analyst proficient in Excel, SQL, Tableau and PowerBI
-### I'm also a Machine Learning Enthusiast
+### I'm a Data Scientist and ML engineer
+### Compuer vision enthusiast
 ### Welcome to my space.
 
 <!--
