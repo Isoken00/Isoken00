@@ -1,7 +1,7 @@
 ### Hi,
 ### My Name Is Omokaro Blessing
 ### I'm a Data Scientist and ML engineer
-### Compuer vision enthusiast
+### I'm also a computer vision enthusiast
 ### Welcome to my space.
 
 <!--
